@@ -1,7 +1,10 @@
 # Data-Programming
 
 Course Description
-Topics covered in this course are divided into three groups: (1) Basic of Python and OOP basics, (2) Advanced Python and OOP, GUI Development, and (3) Data Programming using Python
+Topics covered in this course are divided into three groups: 
+   (1) Basic of Python and OOP basics 
+   (2) Advanced Python and OOP, GUI Development
+   (3) Data Programming using Python
 
 Course Objectives
 Upon completion of the course, each student will be able to:
