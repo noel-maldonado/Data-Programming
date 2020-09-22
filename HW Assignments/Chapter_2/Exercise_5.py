@@ -5,3 +5,8 @@
 #
 # Enter the subtotal and a gratuity rate:  15.69, 15
 # The gratuity is 2.35 and the total is 18.04
+subtotal = eval(input('Enter Subtotal: '))
+gratuityRate = eval(input('Enter gratuity rate (15 = 15%): '))
+gratuity = int((subtotal * (gratuityRate / 100.0)) * 100) / 100.0
+total = subtotal + gratuity
+print('The gratuity is', gratuity, 'and the total is', total)
