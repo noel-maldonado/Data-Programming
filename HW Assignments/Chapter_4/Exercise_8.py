@@ -7,27 +7,27 @@ i3 = eval(input("Enter the third interger: "))
 max = ''
 min = ''
 mid = ''
-if i1 > i2 and i2 > i3:
+if i1 > i2 > i3:
     max = str(i1)
     min = str(i3)
     mid = str(i2)
-elif i2 > i3 and  i3 > i1:
+elif i2 > i3 > i1:
     max = str(i2)
     min = str(i1)
     mid = str(i3)
-elif i3 > i1 and i1 > i2:
+elif i3 > i1 > i2:
     max = str(i3)
     min = str(i2)
     mid = str(i1)
-elif i3 > i2 and i2 > i1:
+elif i3 > i2 > i1:
     max = str(i3)
     min = str(i1)
     mid = str(i2)
-elif i2 > i1 and i1 > i3:
+elif i2 > i1 > i3:
     max = str(i2)
     min = str(i3)
     mid = str(i1)
-elif i1 > i3 and i3 > i2:
+elif i1 > i3 > i2:
     max = str(i1)
     min = str(i2)
     mid = str(i3)
